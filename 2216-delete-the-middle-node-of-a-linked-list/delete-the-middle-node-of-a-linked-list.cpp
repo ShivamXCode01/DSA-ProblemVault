@@ -29,8 +29,7 @@ public:
         }
         
         prev -> next = slow -> next ;
-        slow -> next = NULL;
-        delete slow;
+        
         
         return head;
     }
