@@ -3,67 +3,49 @@ class myQueue {
     int front;
     int rear;
     int size;
-    int currsize;
 
 public:
     myQueue(int n) {
-        size = n;
-        arr = new int[n];
-        front = -1;
-        rear = -1;
-        currsize = 0;
+        size = n + 1;              // one extra slot
+        arr = new int[size];
+        front = 0;
+        rear = 0;
     }
 
     bool isEmpty() {
-        return currsize == 0;
+        return front == rear;
     }
 
     bool isFull() {
-        return currsize == size;
+        return (rear + 1) % size == front;
     }
 
     void enqueue(int x) {
-
-        if(isFull())
+        if (isFull())
             return;
 
-        if(isEmpty()) {
-            front = rear = 0;
-        }
-        else {
-            rear++;
-        }
-
         arr[rear] = x;
-        currsize++;
+        rear = (rear + 1) % size;
     }
 
     void dequeue() {
-
-        if(isEmpty())
+        if (isEmpty())
             return;
 
-        if(front == rear) {
-            front = rear = -1;
-        }
-        else {
-            front++;
-        }
-
-        currsize--;
+        front = (front + 1) % size;
     }
 
     int getFront() {
-        if(isEmpty())
+        if (isEmpty())
             return -1;
 
         return arr[front];
     }
 
     int getRear() {
-        if(isEmpty())
+        if (isEmpty())
             return -1;
 
-        return arr[rear];
+        return arr[(rear - 1 + size) % size];
     }
 };
