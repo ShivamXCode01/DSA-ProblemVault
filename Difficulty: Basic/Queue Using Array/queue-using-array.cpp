@@ -6,7 +6,7 @@ class myQueue {
 
 public:
     myQueue(int n) {
-        size = n + 1;              // one extra slot
+        size = n + 1;              
         arr = new int[size];
         front = 0;
         rear = 0;
