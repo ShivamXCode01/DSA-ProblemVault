@@ -21,20 +21,23 @@ public:
         //Approach -2  
         // first we sort our array then find duplicates in it 
         // Time Complexity - O(n)
-        sort(nums.begin(), nums.end());
 
-        for (int i = 0 ; i < nums.size() - 1 ; i++){
-            if (nums[i] == nums[i+1]){
-                return true ;
-            }
-        }
-        return false ;
+
+        // sort(nums.begin(), nums.end());
+
+        // for (int i = 0 ; i < nums.size() - 1 ; i++){
+        //     if (nums[i] == nums[i+1]){
+        //         return true ;
+        //     }
+        // }
+        // return false ;
 
 
 
         //Approach - 1
-
         // Time Complexity of this method is O(n)
+        
+        
         // int n = nums.size();
         // for (int i = 0 ; i < n-1 ; i++){
         //     for (int j = i+1 ; j < n ; j++ ){
