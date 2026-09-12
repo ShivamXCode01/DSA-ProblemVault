@@ -4,6 +4,8 @@ public:
        
 
         //Approach - 3 using set 
+        // Time Complexity - O(n) 
+        //Space Complexity - O(n)
 
         set <int> s ;
 
@@ -20,7 +22,8 @@ public:
 
         //Approach -2  
         // first we sort our array then find duplicates in it 
-        // Time Complexity - O(n)
+        // Time Complexity - O(nlogn)
+        //Space Complexity - O(1)
 
 
         // sort(nums.begin(), nums.end());
@@ -35,7 +38,8 @@ public:
 
 
         //Approach - 1
-        // Time Complexity of this method is O(n)
+        // Time Complexity of this method is O(n^2)
+        //Space Complexity - O(1)
         
         
         // int n = nums.size();
