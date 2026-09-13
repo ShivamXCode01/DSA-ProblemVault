@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0066-plus-one) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0217-contains-duplicate) |
@@ -38,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0349-intersection-of-two-arrays) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
