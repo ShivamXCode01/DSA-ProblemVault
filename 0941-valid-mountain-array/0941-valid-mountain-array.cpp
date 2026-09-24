@@ -1,6 +1,8 @@
 class Solution {
 public:
     bool validMountainArray(vector<int>& arr) {
+        // Time Complexity - O(n)
+        // Space Complexity - O(1)
         int i = 0  ;
         int n = arr.size();
 
