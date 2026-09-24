@@ -7,7 +7,7 @@ public:
         // }
         // sort(nums1.begin(),nums1.end());
 
-        // Approach - 2 Time Complexity - O(n)
+        // Approach - 2 Time Complexity - O(n) 
         int p1 = m-1 ;
         int p2 = n-1 ;
 
