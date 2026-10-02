@@ -12,6 +12,14 @@ class Solution {
 public:
     bool isPalindrome(ListNode* head) {
 
+        // Approach - 1 
+        // In this approach we uses Stack 
+        // Time Complexity - O(n)
+        // Space Complexity - O(n) Due to stack
+
+        // We can solve it in Linear Space Complexity
+        // Reverse Linked List then Compare the node values 
+
         if (head == NULL || head->next == NULL) {
             return true;
         }
