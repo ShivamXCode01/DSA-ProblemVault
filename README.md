@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0485-max-consecutive-ones) |
 | [0941-valid-mountain-array](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0977-squares-of-a-sorted-array) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Sorting
 |  |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/1051-height-checker) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -53,12 +56,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Binary Search
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Math
 |  |
