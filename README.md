@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/1346-check-if-n-and-its-double-exist) |
+| [3875-construct-uniform-parity-array-i](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0066-plus-one) |
 | [0509-fibonacci-number](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [3875-construct-uniform-parity-array-i](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/3875-construct-uniform-parity-array-i) |
 ## String
 |  |
 | ------- |
