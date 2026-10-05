@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0088-merge-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0035-search-insert-position) |
 | [0349-intersection-of-two-arrays](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/1346-check-if-n-and-its-double-exist) |
