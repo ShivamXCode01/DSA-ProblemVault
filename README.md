@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1688-count-of-matches-in-tournament](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/1688-count-of-matches-in-tournament) |
 | [2396-strictly-palindromic-number](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/2396-strictly-palindromic-number) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/3875-construct-uniform-parity-array-i) |
 ## String
@@ -171,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/2396-strictly-palindromic-number) |
+## Simulation
+|  |
+| ------- |
+| [1688-count-of-matches-in-tournament](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/1688-count-of-matches-in-tournament) |
 <!---LeetCode Topics End-->
