@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0509-fibonacci-number) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0021-merge-two-sorted-lists) |
 | [0234-palindrome-linked-list](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0509-fibonacci-number) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0021-merge-two-sorted-lists) |
 | [0234-palindrome-linked-list](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0234-palindrome-linked-list) |
 ## Minimax
