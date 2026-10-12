@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2000-reverse-prefix-of-word](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/2000-reverse-prefix-of-word) |
 | [2396-strictly-palindromic-number](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/2396-strictly-palindromic-number) |
 ## Binary Search
 |  |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0058-length-of-last-word) |
+| [2000-reverse-prefix-of-word](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/2000-reverse-prefix-of-word) |
 ## String Matching
 |  |
 | ------- |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0496-next-greater-element-i) |
+| [2000-reverse-prefix-of-word](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/2000-reverse-prefix-of-word) |
 ## Linked List
 |  |
 | ------- |
