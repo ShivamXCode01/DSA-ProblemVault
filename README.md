@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0058-length-of-last-word) |
 | [2000-reverse-prefix-of-word](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/2000-reverse-prefix-of-word) |
+| [3174-clear-digits](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/3174-clear-digits) |
 ## String Matching
 |  |
 | ------- |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0496-next-greater-element-i) |
 | [2000-reverse-prefix-of-word](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/2000-reverse-prefix-of-word) |
+| [3174-clear-digits](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/3174-clear-digits) |
 ## Linked List
 |  |
 | ------- |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1688-count-of-matches-in-tournament](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/1688-count-of-matches-in-tournament) |
+| [3174-clear-digits](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/3174-clear-digits) |
 ## Monotonic Stack
 |  |
 | ------- |
