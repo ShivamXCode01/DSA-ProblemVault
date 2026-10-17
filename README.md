@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0058-length-of-last-word) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2000-reverse-prefix-of-word](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/2000-reverse-prefix-of-word) |
 | [3174-clear-digits](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/3174-clear-digits) |
 ## String Matching
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0496-next-greater-element-i) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2000-reverse-prefix-of-word](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/2000-reverse-prefix-of-word) |
 | [3174-clear-digits](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/3174-clear-digits) |
 ## Linked List
