@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0058-length-of-last-word) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2000-reverse-prefix-of-word](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/2000-reverse-prefix-of-word) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/3174-clear-digits) |
 ## String Matching
 |  |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0496-next-greater-element-i) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2000-reverse-prefix-of-word](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/2000-reverse-prefix-of-word) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/3174-clear-digits) |
 ## Linked List
 |  |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1688-count-of-matches-in-tournament](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/1688-count-of-matches-in-tournament) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/3174-clear-digits) |
 ## Monotonic Stack
 |  |
