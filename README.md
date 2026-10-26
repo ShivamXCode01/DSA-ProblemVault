@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0024-swap-nodes-in-pairs) |
 | [0143-reorder-list](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0509-fibonacci-number) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0024-swap-nodes-in-pairs) |
 | [0143-reorder-list](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0234-palindrome-linked-list) |
 ## Minimax
