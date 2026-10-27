@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0024-swap-nodes-in-pairs) |
 | [0143-reorder-list](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0234-palindrome-linked-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0237-delete-node-in-a-linked-list) |
 ## Minimax
 |  |
 | ------- |
