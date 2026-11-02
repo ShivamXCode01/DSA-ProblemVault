@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0877-stone-game) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1688-count-of-matches-in-tournament](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/1688-count-of-matches-in-tournament) |
 | [2396-strictly-palindromic-number](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/2396-strictly-palindromic-number) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0237-delete-node-in-a-linked-list) |
 | [0707-design-linked-list](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0707-design-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Minimax
 |  |
 | ------- |
