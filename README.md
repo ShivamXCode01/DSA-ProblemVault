@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-valid-mountain-array](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/1051-height-checker) |
+| [1089-duplicate-zeros](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/1089-duplicate-zeros) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/1346-check-if-n-and-its-double-exist) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/3875-construct-uniform-parity-array-i) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0977-squares-of-a-sorted-array) |
+| [1089-duplicate-zeros](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/1089-duplicate-zeros) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2000-reverse-prefix-of-word](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/2000-reverse-prefix-of-word) |
 | [2396-strictly-palindromic-number](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/2396-strictly-palindromic-number) |
