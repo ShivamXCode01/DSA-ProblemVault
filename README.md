@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0543-diameter-of-binary-tree) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0590-n-ary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0543-diameter-of-binary-tree) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0590-n-ary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0496-next-greater-element-i) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/1544-make-the-string-great) |
 | [2000-reverse-prefix-of-word](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/2000-reverse-prefix-of-word) |
