@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0496-next-greater-element-i) |
+| [0724-find-pivot-index](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0877-stone-game) |
 | [0941-valid-mountain-array](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0977-squares-of-a-sorted-array) |
@@ -257,4 +258,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0232-implement-queue-using-stacks) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
