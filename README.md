@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0877-stone-game) |
@@ -262,4 +264,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0724-find-pivot-index) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
