@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1089-duplicate-zeros](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/1089-duplicate-zeros) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/1346-check-if-n-and-its-double-exist) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0496-next-greater-element-i) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/1346-check-if-n-and-its-double-exist) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Sorting
 |  |
 | ------- |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0237-delete-node-in-a-linked-list) |
 | [0707-design-linked-list](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0707-design-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Minimax
 |  |
 | ------- |
@@ -247,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/1688-count-of-matches-in-tournament) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/3174-clear-digits) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -275,4 +279,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0142-linked-list-cycle-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Ordered Set
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
