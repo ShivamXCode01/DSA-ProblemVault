@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0349-intersection-of-two-arrays) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0349-intersection-of-two-arrays) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0086-partition-list) |
 | [0142-linked-list-cycle-ii](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0237-delete-node-in-a-linked-list) |
@@ -296,4 +299,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/ShivamXCode01/DSA-ProblemVault/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
